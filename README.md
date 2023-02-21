@@ -10,7 +10,7 @@
   * Module Belajar Dasar Git dengan GitHub. ([Dicoding](https://www.dicoding.com/academies/317))
 - [x] 20 Februari 2023
   * Bangkit 2023 Opening Session (10.00-11.00)
-  * Weekly consultation 1 (19.30.00-20.30)
+  * Weekly consultation 1 (19.30-20.30)
   * Belajar Dasar Visualisasi Data ([Dicoding](https://www.dicoding.com/academies/177))
 - [x] 21 Februari 2023
   * Memulai Pemrograman Dengan Python ([Dicoding](https://www.dicoding.com/academies/86))
